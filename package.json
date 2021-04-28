@@ -1,0 +1,22 @@
+{
+  "name": "postman",
+  "version": "1.0.0",
+  "description": "Large File Processor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zishan Parwez",
+  "license": "ISC",
+  "dependencies": {
+    "consola": "^2.15.3",
+    "csv": "^0.3.7",
+    "csv-parser": "^3.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.6",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.12.5",
+    "path": "^0.12.7"
+  }
+}
